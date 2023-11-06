@@ -15,8 +15,5 @@ public class HelloWorld {
     public String sayHello(){
         return "Hello, world!";
     }
-    public static void main(String[] args){
-        HelloWorld s = new HelloWorld();
-        s.sayHello();
-    }
+  
 }
